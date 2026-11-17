@@ -1,6 +1,6 @@
 public class PayLoad {
 
-
+    //this is for learning
     public static  String addPlacePayLoad(){
         return "{\n" +
                 "  \"location\": {\n" +

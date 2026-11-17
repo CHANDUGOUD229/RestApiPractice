@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 public class ComplexJsonPath {
     int sum=0;
+    //this is for learning
     @Test
     public void complxJson() {
 
