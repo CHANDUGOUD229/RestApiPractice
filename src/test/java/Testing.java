@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 public class Testing {
     String placeId = "";
 
+    //this is for learning
     //ctrl+alt+L
     @Test(priority = 1)
     public void addPlace() {
